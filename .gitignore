@@ -1,0 +1,13 @@
+# Безопасность
+.env
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Системные
+.DS_Store
+Thumbs.db
